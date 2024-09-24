@@ -12,11 +12,6 @@ VBA Makro Güvenliği etkin olmalı (Makroları çalıştırmak için güvenlik 
 Kurulum
 Proje dosyasını indirin veya klonlayın:
 
-bash
-Kodu kopyala
-git clone https://github.com/kullaniciadiniz/tasimali-arac-devam-takip-cizelgesi.git
-Excel dosyasını açın ve Geliştirici Sekmesini etkinleştirin:
-
 Dosya > Seçenekler > Şeritte Geliştirici'yi Göster yolunu takip edin.
 Makroları etkinleştirin:
 
